@@ -1,2 +1,2 @@
-# Django-PRoject-1
+# Iauro 1-A  assignment 
 developed this using python django framework 
